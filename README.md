@@ -1,5 +1,8 @@
 # AI 之 BAIDU
 
+**EASYDL**
+https://ai.baidu.com/easydl/
+
 ## dueros
 http://bit.baidu.com/Subject/index/id/12.html    
 
